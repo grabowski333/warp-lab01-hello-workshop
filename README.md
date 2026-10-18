@@ -1,2 +1,9 @@
-# warp-lab01-hello-workshop
-zadanie 05
+# HelloWorkshop
+
+Konsolowa aplikacja C#/.NET utworzona na laboratorium.
+
+## Uruchomienie
+
+```text
+dotnet run
+```
