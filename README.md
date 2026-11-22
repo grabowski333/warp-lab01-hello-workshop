@@ -10,3 +10,4 @@ dotnet run
 
 ## Kontakt
 Autor: Aleksander Grabowski
+Zespół: Warsztat Programisty
